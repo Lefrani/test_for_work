@@ -1,0 +1,6 @@
+selenium
+playwright
+pytest
+requests
+python-dotenv
+webdriver_manager
