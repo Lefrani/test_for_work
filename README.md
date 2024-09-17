@@ -56,4 +56,4 @@ mv .env.example .env
 
 Для запуска тестов используйте:
 
-pytest tests/test_api.py
+pytest -s tests/test_api.py
