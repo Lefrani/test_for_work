@@ -20,6 +20,7 @@ mv .env.example .env
 
 Пример:
 LOGIN=
+
 PASSWORD=
 
 Для запуска тестов используйте:
@@ -36,7 +37,9 @@ Python 3.x
 
 Пример
 GITHUB_TOKEN=<Ваш_Token_GitHub>
+
 GITHUB_USERNAME=<Ваш_Username>
+
 REPO_NAME=<Название_Репозитория>
 
 Установка
